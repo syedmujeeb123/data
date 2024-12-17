@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "image": "/room1.svg",
+      "title": "Entire apartment rental in Collingwood",
+      "description": "A Stylish Apt, 5 min walk to Queen Victoria Market",
+      "rating": {
+        "value": 4.9,
+        "reviews": 202
+      },
+      "location": "Collingwood VIC",
+      "descriptionBed": "1 bed",
+      "descriptionWifi": "Wifi",
+      "descriptionLocation": "location",
+      "price": "540"
+    },
+    {
+      "image": "/room2.svg",
+      "title": "Entire loft in central business district",
+      "description": "Designer NY style loft",
+      "rating": {
+        "value": 4.8,
+        "reviews": 44
+      },
+      "location": "Melbourne VIC",
+      "descriptionBed": "1 bed",
+      "descriptionWifi": "Wifi",
+      "descriptionLocation": "location",
+      "price": "620"
+    },
+    {
+      "image": "/room3.svg",
+      "title": "Entire rental unit in Carlton",
+      "description": "5 minute walk from University of Melbourne",
+      "rating": {
+        "value": 4.7,
+        "reviews": 82
+      },
+      "location": "Carlton VIC",
+      "descriptionBed": "1 bed",
+      "descriptionWifi": "Wifi",
+      "descriptionLocation": "location",
+      "price": "490"
+    },
+    {
+      "image": "/room4.svg",
+      "title": "Entire apartment rental in Collingwood",
+      "description": "Magnificent apartment next to public transport",
+      "rating": {
+        "value": 4.8,
+        "reviews": 12
+      },
+      "location": "Collingwood VIC",
+      "descriptionBed": "1 bed",
+      "descriptionWifi": "Wifi",
+      "descriptionLocation": "location",
+      "price": "600"
+    }
+  ]
+}
